@@ -6,7 +6,7 @@ import Login from '../components/forms/Login';
 import Register from '../components/forms/Register';
 import AddFirm from '../components/forms/AddFirm';
 import AddProduct from '../components/forms/AddProduct';
-import Greetings from '../components/greetings';
+import Greetings from '../components/Greetings';
 import AllProducts from '../components/AllProducts';
 
 const LandingPage = () => {
