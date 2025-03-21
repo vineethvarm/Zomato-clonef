@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { API_URL } from '../../data/ApiPath';
+import { API_URL } from '../../data/apiPath';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const AddFirm = () => {
