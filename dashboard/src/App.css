@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+    background-image: url('https://img.freepik.com/premium-photo/mexican-restaurant_23-2147640326.jpg?w=1380');
+    height: 100%;
+    background-size: cover;
+    /*font-family: "Inter", serif;*/
+    font-family: "Cinzel Decorative", serif;
+}
+.fscontainer {
+    font-size: 1.25rem; /* Adjust the font size as needed */
+  }
+/* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/AddFirm.css */
+.firmcontainer {
+    background-color: #f8f9fa; /* Light gray background color */
+}
+/* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/AddFirm.css */
+.logincontainer {
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+.box {
+  -webkit-box-shadow: 49px 48px 74px -16px rgba(26,7,12,0.66);
+  -moz-box-shadow: 49px 48px 74px -16px rgba(26,7,12,0.66);
+  box-shadow: 49px 48px 74px -16px rgba(26,7,12,0.66);
+}
+
+/* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/Login.css */
+.loginform {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    height: 300px;
+    width: 365px;
+    border-radius: 5px;
+  }
+  /* filepath: /C:/Users/vinee/OneDrive/Desktop/Zomato_clone/dashboard/dashboard/src/SupplierDashboard/components/forms/Register.css */
+.registerform {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    height: 390px;
+    width: 579px;
+    border-radius: 5px;
+  }
+.cardcontainer{
+    display: flex;
+
+}
+.sideBarcontainer{
+    border: 0px solid #f8f9fa;
+    background-color: lightgray;
+    width: 100%;
+    max-width: 15%;
+    height: 95vh;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.sideBarcontainer ul li{
+    list-style-type: none;
+    font-weight: 550;
+    cursor: pointer;
+    padding: 25px;
+}
+.catContainer{
+   display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+/* AllProducts.css */
+
+.container {
+  margin-top: 20px;
+}
+.table {
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.img-thumbnail {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.text-center {
+  text-align: center;
+  }
+.containero {
+  color: antiquewhite;
+  font-size: 40px;
+}
+
+.mt-5 {
+  margin-top: 3rem;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
