@@ -1,4 +1,4 @@
 
-export const API_URL = "http://localhost:3999"
+//export const API_URL = "http://localhost:3999"
 
-// const API_URL = "https://zomato-clone-backend-nodejs.onrender.com"
+ const API_URL = "https://zomato-clone-0peh.onrender.com/"
